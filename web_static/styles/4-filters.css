@@ -1,0 +1,34 @@
+/*
+ * === Filters class style ===
+ */
+
+/* Filters style */
+.filters {
+  background-color: white;
+  border: 1px solid #DDDDDD;
+  border-radius: 4px;
+  height: 70px;
+  width: 100%;
+  line-height: 70px;
+}
+
+/* Search button style */
+button {
+  background-color: #FF5A5F;
+  font-size: 18px;
+  color: #FFFFFF;
+  height: 48px;
+  width: 20%;
+  border: 0px;
+  border-radius: 4px;
+}
+
+/* Search button hover opacity */
+button:hover {
+  opacity: 90%;
+}
+
+.rightalign {
+  text-align: right;
+  margin-right: 30px
+}
